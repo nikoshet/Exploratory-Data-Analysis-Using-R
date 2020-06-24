@@ -12,7 +12,8 @@
 │
 └──Exploratory Data Analysis
    | General Analysis Of Data
-   | Analysis Of Data Based On Main Question ('Differences in salaries between male and female professors')
+   | Analysis Of Data Based On Main Question 
+     ('Differences in salaries between male and female professors')
 ```
 
 ### Licence
